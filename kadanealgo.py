@@ -17,3 +17,5 @@ for i in range(t):
     array = list(map(int, input("enter the array: ").strip().split()))
 
     print(kadane(array,size))
+    
+    #addded repo 
